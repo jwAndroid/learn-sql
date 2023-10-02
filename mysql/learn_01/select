@@ -1,0 +1,15 @@
+/*
+* https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_like_not
+*/
+
+-- 데이터를 가져올 때 가장 먼저 필요한 정보 두가지
+-- - 1. 어떤것? select 
+-- - 2. 어디에? from
+
+select * from "table"
+
+-- - select ~ 를 가져오다.
+-- - select 뒤 어떤것을 가져올지 테이블을 지정
+-- - * 모두를 뜻함(와일드카드라고 부름).
+-- - * 가 아닌 개별 컬럼을 가져오고 싶다면 ,로 구분
+

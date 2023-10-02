@@ -1,0 +1,7 @@
+SELECT CustomerName,ContactName FROM Customers
+
+FROM
+-- 데이터를 어디서 가져오는지
+-- SELECT 구문을 실행하기 위한 필수 조건
+-- 데이터가 저장되어 있는 주소인 table 명을 적어줘야한다.
+-- join 명령도 from 절에 작성

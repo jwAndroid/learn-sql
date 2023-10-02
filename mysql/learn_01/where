@@ -1,0 +1,15 @@
+-- select *
+-- 	from 'table'
+	where 'cul' = 'condition'
+	-- group by 'key'
+	-- having count 'n' > 5
+	-- order by 'key'
+
+
+-- where
+-- - 가져올 데이터의 조건
+-- - 한 개 이상의 조건가능
+-- 	and, or 로 가능하다.
+-- - 컬럼명 = 조건 으로 작성한다.
+
+=, !=, in, between and, between or
